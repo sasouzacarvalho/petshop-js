@@ -1,0 +1,16 @@
+{
+  "name": "petshop",
+  "version": "1.0.0", //coment
+  "description": "Primeira aula com NPM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sara Souza",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1"
+  }
+}
